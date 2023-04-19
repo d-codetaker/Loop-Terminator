@@ -14,10 +14,6 @@ Loop Terminator can also detect and handle multiple loops, ensuring that your ne
 
 To get started with Loop Terminator, simply clone the repository and run the program on your network. 📥👨‍💻💻
 
-`$ git clone https://github.com/d-codetaker/loop-terminator.git`
-`$ cd loop-terminator`
-`$ python loop_terminator.py`
-
 ## 📈 Roadmap
 
 In the future, we plan to add more features to Loop Terminator, such as:
